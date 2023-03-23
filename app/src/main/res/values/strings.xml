@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Plant Disease Detection</string>
+    <string name="result">Result</string>
+</resources>
